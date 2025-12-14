@@ -88,7 +88,7 @@ def evaluate(chat_json: Dict, context_json: Dict) -> Dict:
     }
 
 # -------------------------------
-# Example Execution
+# Execution
 # -------------------------------
 
 if __name__ == "__main__":
