@@ -1,9 +1,6 @@
 # LLM-Evaluation-Pipeline
 # LLM Response Evaluation Pipeline
 
-*This README follows a structure inspired by popular open-source libraries like **face_recognition**, adapted for an AI reliability and evaluation system.*
-
-Evaluate, validate, and monitor **LLM responses** at scale with a fast, explainable, and cost‑efficient evaluation pipeline.
 
 The system is designed to analyze conversations between humans and AI models and automatically score responses for:
 
