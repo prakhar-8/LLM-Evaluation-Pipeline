@@ -221,3 +221,11 @@ This evaluation pipeline provides:
 * Extremely low cost
 
 It acts as a **safety and quality layer** between LLMs and users, making large‑scale AI deployments safer and more trustworthy.
+🚀 Scaling to Millions of Conversations
+🔥 How We Keep Costs & Latency Low
+Technique	Benefit
+No LLM calls in eval	💰 Near-zero cost
+String + vector similarity	⚡ Microsecond latency
+Stateless execution	♻️ Horizontal scaling
+Async batch processing	📈 1M+ evals/min
+Configurable thresholds	🎯 Domain-specific tuning
